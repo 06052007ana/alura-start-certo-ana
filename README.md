@@ -1,1 +1,2 @@
-# alura-start-certo-ana
+# Alura-Start
+Projeto 2A - Ruth 
